@@ -9,7 +9,7 @@
   "main": "src.js",
   "scripts": {
     
-    "start":"node src/app.js"
+    "start":"node src.js"
   },
   "repository": {
     "type": "git",
